@@ -118,7 +118,7 @@ class Menu():
         return menu
 
 # ОСНОВНОЙ КОД БОТА
-vk = vk_api.VkApi(token="461066dcdf6ee8921a21626fedd29eec26bbfc204eb8c556aa93ce67175b153f6062acf4df2fcffe586e6")
+vk = vk_api.VkApi(token="YOUR TOKEN HERE")
 
 while True:
     try:
